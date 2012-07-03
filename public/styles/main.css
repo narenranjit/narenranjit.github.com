@@ -116,3 +116,5 @@ cite{font-style:normal;}
 .show{display:block;}
 .invisible{visibility:hidden;}
 .container-fluid{max-width:1400px;margin:0 auto;}
+.first{margin-left:0;padding-left:10px;padding-right:10px;}
+.row-fluid ol,.row-fluid ul{margin-left:0 !important;}.row-fluid ol li,.row-fluid ul li{list-style:none;}
