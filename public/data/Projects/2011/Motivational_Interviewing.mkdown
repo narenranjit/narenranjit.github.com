@@ -1,0 +1,9 @@
+#### Motivational Interviewing Simulation
+
+* Start: December 2011
+* End: February 2012
+
+Motivational Interviewing (MI) is a well-established evidence- based practice that has been implemented across a wide range of disciplines including mental health and substance abuse treatment, primary care, HIV/AIDS services, homeless programs, and other health and social services. While standard 2-day face-to-face trainings have been shown effective in initial uptake of MI knowledge and skills, researchers have consistently documented a significant decrease in knowledge and skills in the weeks and months following onsite training. 
+
+The Motivational Interviewing Simulator: An Experiential Online Training Tool represents the first major effort matching simulation technology with the evidence-based practice of motivational interviewing (MI). The Simulator will support retention of MI knowledge and skills to ensure fidelity to the model-and ultimately will improve quality of care for vulnerable populations by improving the clinical skills of service providers.
+

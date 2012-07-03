@@ -1,0 +1,19 @@
+
+<% for prj in @projects: %>
+	<li>
+		<h4> <%= prj.title %> </h4>
+		<span> <%= prj.client %> </span>
+		<p>
+			<%= prj.desc %>
+		</p>
+		<h6> What they're saying </h6>
+		<ul>
+			<% for quote in prj.quotes: %>
+				<blockquote> quote.snippet </blockquote>
+				<a href="<%= quote.url %>"> 
+					<%=quote.title %>
+				</a>
+			<% end %>
+		</ul>
+	</li>
+<% end %>
